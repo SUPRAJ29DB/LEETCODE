@@ -23,6 +23,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0079-word-search](https://github.com/SUPRAJ29DB/LEETCODE/tree/main/0079-word-search/) | Medium |
+| [0643-maximum-average-subarray-i](https://github.com/SUPRAJ29DB/LEETCODE/tree/main/0643-maximum-average-subarray-i/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -45,4 +46,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/SUPRAJ29DB/LEETCODE/tree/main/0509-fibonacci-number/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/SUPRAJ29DB/LEETCODE/tree/main/0643-maximum-average-subarray-i/) | Easy |
 <!---LeetCode Topics End-->
