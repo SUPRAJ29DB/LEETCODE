@@ -10,6 +10,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/SUPRAJ29DB/LEETCODE/tree/main/0070-climbing-stairs/) | Easy |
 | [0131-palindrome-partitioning](https://github.com/SUPRAJ29DB/LEETCODE/tree/main/0131-palindrome-partitioning/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -29,4 +30,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0079-word-search](https://github.com/SUPRAJ29DB/LEETCODE/tree/main/0079-word-search/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/SUPRAJ29DB/LEETCODE/tree/main/0070-climbing-stairs/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/SUPRAJ29DB/LEETCODE/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
