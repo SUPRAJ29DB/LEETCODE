@@ -25,6 +25,7 @@
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/SUPRAJ29DB/LEETCODE/tree/main/0053-maximum-subarray/) | Medium |
 | [0079-word-search](https://github.com/SUPRAJ29DB/LEETCODE/tree/main/0079-word-search/) | Medium |
+| [0189-rotate-array](https://github.com/SUPRAJ29DB/LEETCODE/tree/main/0189-rotate-array/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/SUPRAJ29DB/LEETCODE/tree/main/0643-maximum-average-subarray-i/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -38,6 +39,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/SUPRAJ29DB/LEETCODE/tree/main/0070-climbing-stairs/) | Easy |
+| [0189-rotate-array](https://github.com/SUPRAJ29DB/LEETCODE/tree/main/0189-rotate-array/) | Medium |
 | [0509-fibonacci-number](https://github.com/SUPRAJ29DB/LEETCODE/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
@@ -56,4 +58,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/SUPRAJ29DB/LEETCODE/tree/main/0053-maximum-subarray/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0189-rotate-array](https://github.com/SUPRAJ29DB/LEETCODE/tree/main/0189-rotate-array/) | Medium |
 <!---LeetCode Topics End-->
