@@ -31,6 +31,7 @@
 | [0179-largest-number](https://github.com/SUPRAJ29DB/LEETCODE/tree/main/0179-largest-number/) | Medium |
 | [0189-rotate-array](https://github.com/SUPRAJ29DB/LEETCODE/tree/main/0189-rotate-array/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/SUPRAJ29DB/LEETCODE/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [1331-rank-transform-of-an-array](https://github.com/SUPRAJ29DB/LEETCODE/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SUPRAJ29DB/LEETCODE/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -80,10 +81,12 @@
 | [0075-sort-colors](https://github.com/SUPRAJ29DB/LEETCODE/tree/main/0075-sort-colors/) | Medium |
 | [0169-majority-element](https://github.com/SUPRAJ29DB/LEETCODE/tree/main/0169-majority-element/) | Easy |
 | [0179-largest-number](https://github.com/SUPRAJ29DB/LEETCODE/tree/main/0179-largest-number/) | Medium |
+| [1331-rank-transform-of-an-array](https://github.com/SUPRAJ29DB/LEETCODE/tree/main/1331-rank-transform-of-an-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/SUPRAJ29DB/LEETCODE/tree/main/0169-majority-element/) | Easy |
+| [1331-rank-transform-of-an-array](https://github.com/SUPRAJ29DB/LEETCODE/tree/main/1331-rank-transform-of-an-array/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
