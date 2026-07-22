@@ -27,6 +27,7 @@
 | [0053-maximum-subarray](https://github.com/SUPRAJ29DB/LEETCODE/tree/main/0053-maximum-subarray/) | Medium |
 | [0075-sort-colors](https://github.com/SUPRAJ29DB/LEETCODE/tree/main/0075-sort-colors/) | Medium |
 | [0079-word-search](https://github.com/SUPRAJ29DB/LEETCODE/tree/main/0079-word-search/) | Medium |
+| [0128-longest-consecutive-sequence](https://github.com/SUPRAJ29DB/LEETCODE/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0169-majority-element](https://github.com/SUPRAJ29DB/LEETCODE/tree/main/0169-majority-element/) | Easy |
 | [0179-largest-number](https://github.com/SUPRAJ29DB/LEETCODE/tree/main/0179-largest-number/) | Medium |
 | [0189-rotate-array](https://github.com/SUPRAJ29DB/LEETCODE/tree/main/0189-rotate-array/) | Medium |
@@ -85,6 +86,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/SUPRAJ29DB/LEETCODE/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0169-majority-element](https://github.com/SUPRAJ29DB/LEETCODE/tree/main/0169-majority-element/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/SUPRAJ29DB/LEETCODE/tree/main/1331-rank-transform-of-an-array/) | Easy |
 ## Counting
@@ -95,4 +97,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SUPRAJ29DB/LEETCODE/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/SUPRAJ29DB/LEETCODE/tree/main/0128-longest-consecutive-sequence/) | Medium |
 <!---LeetCode Topics End-->
