@@ -32,6 +32,7 @@
 | [0169-majority-element](https://github.com/SUPRAJ29DB/LEETCODE/tree/main/0169-majority-element/) | Easy |
 | [0179-largest-number](https://github.com/SUPRAJ29DB/LEETCODE/tree/main/0179-largest-number/) | Medium |
 | [0189-rotate-array](https://github.com/SUPRAJ29DB/LEETCODE/tree/main/0189-rotate-array/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/SUPRAJ29DB/LEETCODE/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SUPRAJ29DB/LEETCODE/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/SUPRAJ29DB/LEETCODE/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/SUPRAJ29DB/LEETCODE/tree/main/1331-rank-transform-of-an-array/) | Easy |
@@ -62,6 +63,7 @@
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/SUPRAJ29DB/LEETCODE/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/SUPRAJ29DB/LEETCODE/tree/main/0643-maximum-average-subarray-i/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -111,5 +113,10 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/SUPRAJ29DB/LEETCODE/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SUPRAJ29DB/LEETCODE/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/SUPRAJ29DB/LEETCODE/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 <!---LeetCode Topics End-->
