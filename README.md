@@ -31,6 +31,7 @@
 | [0169-majority-element](https://github.com/SUPRAJ29DB/LEETCODE/tree/main/0169-majority-element/) | Easy |
 | [0179-largest-number](https://github.com/SUPRAJ29DB/LEETCODE/tree/main/0179-largest-number/) | Medium |
 | [0189-rotate-array](https://github.com/SUPRAJ29DB/LEETCODE/tree/main/0189-rotate-array/) | Medium |
+| [0350-intersection-of-two-arrays-ii](https://github.com/SUPRAJ29DB/LEETCODE/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/SUPRAJ29DB/LEETCODE/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/SUPRAJ29DB/LEETCODE/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SUPRAJ29DB/LEETCODE/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
@@ -71,6 +72,7 @@
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/SUPRAJ29DB/LEETCODE/tree/main/0075-sort-colors/) | Medium |
 | [0189-rotate-array](https://github.com/SUPRAJ29DB/LEETCODE/tree/main/0189-rotate-array/) | Medium |
+| [0350-intersection-of-two-arrays-ii](https://github.com/SUPRAJ29DB/LEETCODE/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SUPRAJ29DB/LEETCODE/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -82,12 +84,14 @@
 | [0075-sort-colors](https://github.com/SUPRAJ29DB/LEETCODE/tree/main/0075-sort-colors/) | Medium |
 | [0169-majority-element](https://github.com/SUPRAJ29DB/LEETCODE/tree/main/0169-majority-element/) | Easy |
 | [0179-largest-number](https://github.com/SUPRAJ29DB/LEETCODE/tree/main/0179-largest-number/) | Medium |
+| [0350-intersection-of-two-arrays-ii](https://github.com/SUPRAJ29DB/LEETCODE/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/SUPRAJ29DB/LEETCODE/tree/main/1331-rank-transform-of-an-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/SUPRAJ29DB/LEETCODE/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0169-majority-element](https://github.com/SUPRAJ29DB/LEETCODE/tree/main/0169-majority-element/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/SUPRAJ29DB/LEETCODE/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/SUPRAJ29DB/LEETCODE/tree/main/1331-rank-transform-of-an-array/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
@@ -101,4 +105,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/SUPRAJ29DB/LEETCODE/tree/main/0128-longest-consecutive-sequence/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/SUPRAJ29DB/LEETCODE/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 <!---LeetCode Topics End-->
