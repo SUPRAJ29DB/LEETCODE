@@ -27,6 +27,7 @@
 | [0053-maximum-subarray](https://github.com/SUPRAJ29DB/LEETCODE/tree/main/0053-maximum-subarray/) | Medium |
 | [0075-sort-colors](https://github.com/SUPRAJ29DB/LEETCODE/tree/main/0075-sort-colors/) | Medium |
 | [0079-word-search](https://github.com/SUPRAJ29DB/LEETCODE/tree/main/0079-word-search/) | Medium |
+| [0088-merge-sorted-array](https://github.com/SUPRAJ29DB/LEETCODE/tree/main/0088-merge-sorted-array/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/SUPRAJ29DB/LEETCODE/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0169-majority-element](https://github.com/SUPRAJ29DB/LEETCODE/tree/main/0169-majority-element/) | Easy |
 | [0179-largest-number](https://github.com/SUPRAJ29DB/LEETCODE/tree/main/0179-largest-number/) | Medium |
@@ -71,6 +72,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/SUPRAJ29DB/LEETCODE/tree/main/0075-sort-colors/) | Medium |
+| [0088-merge-sorted-array](https://github.com/SUPRAJ29DB/LEETCODE/tree/main/0088-merge-sorted-array/) | Easy |
 | [0189-rotate-array](https://github.com/SUPRAJ29DB/LEETCODE/tree/main/0189-rotate-array/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SUPRAJ29DB/LEETCODE/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SUPRAJ29DB/LEETCODE/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
@@ -82,6 +84,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/SUPRAJ29DB/LEETCODE/tree/main/0075-sort-colors/) | Medium |
+| [0088-merge-sorted-array](https://github.com/SUPRAJ29DB/LEETCODE/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/SUPRAJ29DB/LEETCODE/tree/main/0169-majority-element/) | Easy |
 | [0179-largest-number](https://github.com/SUPRAJ29DB/LEETCODE/tree/main/0179-largest-number/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SUPRAJ29DB/LEETCODE/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
